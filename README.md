@@ -1,5 +1,5 @@
 - 👋 Hey! I’m Ibrahim,
-- 👀 I’m interested in Gaming and Football!
+- 👀 I’m interested in Gaming and Football/ Soccer!
 - 🌱 I’m currently learning Game Programming!
 - 💞️ I’m looking to collaborate on Games!
 
