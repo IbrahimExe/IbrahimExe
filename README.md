@@ -2,21 +2,21 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://ibrahimexe.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
@@ -33,10 +33,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IbrahimExe/IbrahimExe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IbrahimExe/IbrahimExe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IbrahimExe/IbrahimExe/output/pacman-contribution-graph.svg">
-</picture>
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzeGE1cjMyNGhkaDQ1aW1tcDV4ZGdvYTlteW1rc3BkdGhhODZjOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sW0L5TunRpSCFD954x/giphy.gif"  />
 
 ###
