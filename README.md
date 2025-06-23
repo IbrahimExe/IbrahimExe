@@ -33,16 +33,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IbrahimExe/IbrahimExe/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzeGE1cjMyNGhkaDQ1aW1tcDV4ZGdvYTlteW1rc3BkdGhhODZjOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sW0L5TunRpSCFD954x/giphy.gif"  />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IbrahimExe/IbrahimExe/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IbrahimExe/IbrahimExe/output/pacman-contribution-graph.svg">
