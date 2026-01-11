@@ -9,9 +9,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/d9b16677-a880-4d87-8ac0-8e07acf05d32" height="94" alt="PythonLogo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="100" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="100" alt="unrealengine logo"  />
+  <img src="https://github.com/user-attachments/assets/adcced42-1244-4b81-b441-26d400742629" height="118" alt="UnrealLogo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="100" alt="kotlin logo"  />
 </div>
