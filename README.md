@@ -29,16 +29,18 @@
   <a href="https://discordapp.com/users/295621523061080066" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
-  <a href="ibrahimmiishaq@gmail.com" target="_blank">
+  <a href="mailto:ibrahimmiishaq@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ibrahimig" target="_blank">
+  <a href="https://www.linkedin.com/in/ibrahimig" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+#####
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzeGE1cjMyNGhkaDQ1aW1tcDV4ZGdvYTlteW1rc3BkdGhhODZjOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sW0L5TunRpSCFD954x/giphy.gif"  />
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzeGE1cjMyNGhkaDQ1aW1tcDV4ZGdvYTlteW1rc3BkdGhhODZjOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sW0L5TunRpSCFD954x/giphy.gif" />
+</div>
 
-###
+#####
